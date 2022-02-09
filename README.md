@@ -17,7 +17,7 @@ I'm a Front-End Developer working in Fortaleza, Brazil.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/luihsf/luishsf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishsf&theme=blue-green&langs_count=3&hide=html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishsf&theme=blue-green&langs_count=3&hide=html,objective-c,ruby,starlark" />
 </a>
 <a href="https://github.com/luishsf/luishsf">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luishsf&show_icons=true&line_height=27&count_private=true&theme=blue-green" alt="luishsf's GitHub Stats" />
